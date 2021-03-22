@@ -1,0 +1,5 @@
+mar 22, 2021 12:03:13 P. M. E6.Server.Utils logFile
+INFO: Servidor iniciado en: 192.168.1.68 
+	en puerto: 1234
+mar 22, 2021 12:03:13 P. M. E6.Server.Utils logFile
+SEVERE: Error al abrir el socket de servidor : java.net.BindException: No se puede asignar la dirección solicitada (Bind failed)
