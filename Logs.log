@@ -1,0 +1,99 @@
+mar 22, 2021 12:46:53 PM E6.Server.Utils logFile
+INFORMACIÓN: Servidor iniciado en: 25.83.119.163 
+	en puerto: 1234
+mar 22, 2021 12:47:13 PM E6.Server.Utils logFile
+INFORMACIÓN: Datos recibidos de:Socket[addr=/25.19.48.247,port=35712,localport=1234]
+	Recibe:1,4.0,5.0
+mar 22, 2021 12:47:13 PM E6.Server.Utils logFile
+INFORMACIÓN: Datos enviados a: Socket[addr=/25.19.48.247,port=35712,localport=1234]
+	Envia1,226.1946710584651
+mar 22, 2021 12:47:13 PM E6.Server.Utils logFile
+INFORMACIÓN: Socket closed
+mar 22, 2021 12:48:05 PM E6.Server.Utils logFile
+INFORMACIÓN: Datos recibidos de:Socket[addr=/25.19.48.247,port=35716,localport=1234]
+	Recibe:2,4.0
+mar 22, 2021 12:48:05 PM E6.Server.Utils logFile
+INFORMACIÓN: Datos enviados a: Socket[addr=/25.19.48.247,port=35716,localport=1234]
+	Envia2,201.06192982974676
+mar 22, 2021 12:48:05 PM E6.Server.Utils logFile
+INFORMACIÓN: Socket closed
+mar 22, 2021 12:48:55 PM E6.Server.Utils logFile
+INFORMACIÓN: Datos recibidos de:Socket[addr=/25.19.48.247,port=35724,localport=1234]
+	Recibe:3,4.0,5.0
+mar 22, 2021 12:48:55 PM E6.Server.Utils logFile
+INFORMACIÓN: Datos enviados a: Socket[addr=/25.19.48.247,port=35724,localport=1234]
+	Envia3,113.09733552923255
+mar 22, 2021 12:48:55 PM E6.Server.Utils logFile
+INFORMACIÓN: Socket closed
+mar 22, 2021 12:49:38 PM E6.Server.Utils logFile
+INFORMACIÓN: Datos recibidos de:Socket[addr=/25.19.48.247,port=35730,localport=1234]
+	Recibe:4,4.0
+mar 22, 2021 12:49:38 PM E6.Server.Utils logFile
+INFORMACIÓN: Datos enviados a: Socket[addr=/25.19.48.247,port=35730,localport=1234]
+	Envia4,96.0
+mar 22, 2021 12:49:38 PM E6.Server.Utils logFile
+INFORMACIÓN: Socket closed
+mar 22, 2021 12:50:05 PM E6.Server.Utils logFile
+INFORMACIÓN: Datos recibidos de:Socket[addr=/25.19.48.247,port=35736,localport=1234]
+	Recibe:5,4.0,5.0
+mar 22, 2021 12:50:05 PM E6.Server.Utils logFile
+INFORMACIÓN: Datos enviados a: Socket[addr=/25.19.48.247,port=35736,localport=1234]
+	Envia5,1312.0
+mar 22, 2021 12:50:05 PM E6.Server.Utils logFile
+INFORMACIÓN: Socket closed
+mar 22, 2021 12:50:38 PM E6.Server.Utils logFile
+INFORMACIÓN: Datos recibidos de:Socket[addr=/25.19.48.247,port=35744,localport=1234]
+	Recibe:6,6.0,5.0
+mar 22, 2021 12:50:38 PM E6.Server.Utils logFile
+INFORMACIÓN: Datos enviados a: Socket[addr=/25.19.48.247,port=35744,localport=1234]
+	Envia6,96.0
+mar 22, 2021 12:50:38 PM E6.Server.Utils logFile
+INFORMACIÓN: Socket closed
+mar 22, 2021 12:51:32 PM E6.Server.Utils logFile
+INFORMACIÓN: Datos recibidos de:Socket[addr=/25.19.48.247,port=35752,localport=1234]
+	Recibe:7,5.0,4.0
+mar 22, 2021 12:51:32 PM E6.Server.Utils logFile
+INFORMACIÓN: Datos enviados a: Socket[addr=/25.19.48.247,port=35752,localport=1234]
+	Envia7,314.1592653589793
+mar 22, 2021 12:51:32 PM E6.Server.Utils logFile
+INFORMACIÓN: Socket closed
+mar 22, 2021 12:52:01 PM E6.Server.Utils logFile
+INFORMACIÓN: Datos recibidos de:Socket[addr=/25.19.48.247,port=35758,localport=1234]
+	Recibe:8,5.0
+mar 22, 2021 12:52:01 PM E6.Server.Utils logFile
+INFORMACIÓN: Datos enviados a: Socket[addr=/25.19.48.247,port=35758,localport=1234]
+	Envia8,78.53981633974483
+mar 22, 2021 12:52:01 PM E6.Server.Utils logFile
+INFORMACIÓN: Socket closed
+mar 22, 2021 12:52:27 PM E6.Server.Utils logFile
+INFORMACIÓN: Datos recibidos de:Socket[addr=/25.19.48.247,port=35762,localport=1234]
+	Recibe:9,5.0,4.0,3.0
+mar 22, 2021 12:52:27 PM E6.Server.Utils logFile
+INFORMACIÓN: Datos enviados a: Socket[addr=/25.19.48.247,port=35762,localport=1234]
+	Envia9,104.71975511965978
+mar 22, 2021 12:52:27 PM E6.Server.Utils logFile
+INFORMACIÓN: Socket closed
+mar 22, 2021 12:52:54 PM E6.Server.Utils logFile
+INFORMACIÓN: Datos recibidos de:Socket[addr=/25.19.48.247,port=35768,localport=1234]
+	Recibe:10,4.0
+mar 22, 2021 12:52:54 PM E6.Server.Utils logFile
+INFORMACIÓN: Datos enviados a: Socket[addr=/25.19.48.247,port=35768,localport=1234]
+	Envia10,384.0
+mar 22, 2021 12:52:54 PM E6.Server.Utils logFile
+INFORMACIÓN: Socket closed
+mar 22, 2021 12:53:39 PM E6.Server.Utils logFile
+INFORMACIÓN: Datos recibidos de:Socket[addr=/25.19.48.247,port=35776,localport=1234]
+	Recibe:11,4.0,5.0
+mar 22, 2021 12:53:39 PM E6.Server.Utils logFile
+INFORMACIÓN: Datos enviados a: Socket[addr=/25.19.48.247,port=35776,localport=1234]
+	Envia11,20.0
+mar 22, 2021 12:53:39 PM E6.Server.Utils logFile
+INFORMACIÓN: Socket closed
+mar 22, 2021 12:54:07 PM E6.Server.Utils logFile
+INFORMACIÓN: Datos recibidos de:Socket[addr=/25.19.48.247,port=35780,localport=1234]
+	Recibe:12,5.0,4.0
+mar 22, 2021 12:54:07 PM E6.Server.Utils logFile
+INFORMACIÓN: Datos enviados a: Socket[addr=/25.19.48.247,port=35780,localport=1234]
+	Envia12,6.666666666666667
+mar 22, 2021 12:54:07 PM E6.Server.Utils logFile
+INFORMACIÓN: Socket closed
